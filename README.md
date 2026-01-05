@@ -62,31 +62,42 @@
 
 ---
 
-### 📊 GitHub Analysis:
-
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chatgpt&theme=tokyonight" height="150" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chatgpt&theme=tokyonight" height="150" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=chatgpt&theme=tokyonight&hide_border=true" alt="streak stats" />
-</p>
-
----
+### 📊 GitHub Analysis
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Sometimes%20it%20is%20the%20people%20no%20one%20can%20imagine%20anything%20of%20who%20do%20the%20things%20no%20one%20can%20imagine.&author=Alan%20Turing" />
-</div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00599C&height=100&section=footer" />
-</div>
+  <!-- RUNNING CODE / CYBER GIF -->
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="320" alt="Running Code GIF"/>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=chatgpt&theme=tokyonight&no-bg=true&v=1" alt="trophies" />
-</p>
+  <!-- Profile Summary Cards -->
+  <p>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chatgpt&theme=dark" height="140" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chatgpt&theme=dark" height="140" />
+  </p>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=chatgpt&color=blue&style=for-the-badge" alt="Profile Views" />
+  <!-- GitHub Streak Stats -->
+  <p>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=chatgpt&theme=dark&hide_border=true" />
+  </p>
+
+  <!-- Cyber Quote -->
+  <p>
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Code+is+power.+Security+is+control.&author=Atika+Khawaja" />
+  </p>
+
+  <!-- Footer -->
+  <p>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=100&section=footer" />
+  </p>
+
+  <!-- Trophies -->
+  <p>
+    <img src="https://github-profile-trophy.vercel.app/?username=chatgpt&theme=dark&no-bg=true" />
+  </p>
+
+  <!-- Profile Views -->
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=chatgpt&style=for-the-badge&color=blue" />
+  </p>
+
 </div>
