@@ -1,12 +1,20 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280"/>
+  <!-- HACKER LAPTOP GIF -->
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300"/>
 
-<h1>Heyy Everyone </h1>
+  <h1>⚠️ ACCESS GRANTED ⚠️</h1>
+
+  <h2>Hi 👋 I’m <b>Atika Khawaja</b></h2>
+
+  <h3>👩‍💻 Cyber Security Enthusiast | Future Cyber Expert</h3>
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Welcome+to+my+Cyber+World;Ethical+Hacking+Learner;Cyber+Security+Student;Future+Cyber+Expert" />
 
 </div>
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:87CEFA,100:00BFFF&fontColor=ffffff&height=220&section=header&text=Atika%20Khawaja&fontSize=72&animation=fadeIn" />
+
+
+
 </div>
 
 <div align="center">
