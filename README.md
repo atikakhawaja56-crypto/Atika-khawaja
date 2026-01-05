@@ -1,5 +1,12 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00599C&height=200&section=header&text=Atika&fontSize=70&animation=fadeIn" />
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280"/>
+
+<h1>Heyy Everyone </h1>
+
+</div>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:87CEFA,100:00BFFF&fontColor=ffffff&height=220&section=header&text=Atika%20Khawaja&fontSize=72&animation=fadeIn" />
 </div>
 
 <div align="center">
